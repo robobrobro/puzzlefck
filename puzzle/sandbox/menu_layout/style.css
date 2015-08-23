@@ -1,0 +1,39 @@
+body
+{
+	background: rgb(50, 50, 50);
+	text-align: center;
+}
+
+.menu
+{
+	color: rgb(255, 255, 255);
+   margin: 0;
+   padding: 0;
+}
+
+.menu_header
+{
+	font-family: vivaldi;
+	font-size: 100px;
+	font-weight: bold;
+
+   margin: 0;
+	padding: 20px;
+}	
+
+.menu_body
+{
+	font-family: vivaldi;
+	font-size: 75px;
+	font-weight: none;
+   
+   margin: 0;
+   padding: 0;
+}
+
+.menu_item
+{
+   margin: 0;
+   padding: 0;
+	/* padding: 5px; */
+}
